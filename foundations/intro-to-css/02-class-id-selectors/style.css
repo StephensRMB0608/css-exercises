@@ -1,1 +1,24 @@
 /* Add CSS Styling */
+.class1 {
+    background-color: pink;
+}
+
+#identity1 {
+    color: blue;
+    font-size: 36px;
+}
+
+.class2 {
+    background-color: pink;
+    font-size: 24px;
+}
+
+#identity2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.class3 {
+    background-color: pink;
+}
