@@ -1,6 +1,6 @@
 # Chaining Selectors
 
-Credits for the images in this exercise go to [Katho Mutodo](https://linktr.ee/photobykatho_) and [Andrea Piacquadio](https://www.pexels.com/@olly?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels).
+Credits for the images in this exercise go to [Katho Mutodo](https://linktr.ee/photobykatho_) and [Andrea Piacquadio](https://www.pexels.com/@olly?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels). 
 
 
 With this exercise, we've provided you with a complete HTML file and a CSS file to work with. The purpose of this exercise is to focus on understanding how to chain different selectors, rather than solely adding attributes.
